@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgoudy
 - 👀 I’m interested in ... software dev!
-- 🌱 I’m currently learning ...MSc in Software Dev. Also learning Plasmic, Figma, Next.js, Spring, etc
+- 🌱 I’m currently learning ...MSc in Software Dev. Also learning Material-UI and Barrel Racing 🐴
 - 💞️ I’m looking to collaborate on ...anything!
 - 📫 How to reach me ...LinkedIn
 
