@@ -10,6 +10,8 @@ Instagram for animal pics: https://www.instagram.com/shelbygoudy/
 ## Capstone Project for MSSD ##  
 <a href="diary-library.herokuapp.com" target="_blank">diary-library.herokuapp.com</a>
 
+*The rest of my school work is private for now*  
+
 ### Side hustle as a WP Dev ###
 *Sample Sites, built per client design requests*  
   
