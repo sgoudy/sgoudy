@@ -1,7 +1,7 @@
 # Hi, I'm Shelby 'EVA' Goudy #
 ### MS Software Development || Former Marine Officer/ Aviator || MBA  ###
 
-*Not a huge social media buff but I do take an occassional animal pictures*
+*Not a huge social media buff but I do take an occassional animal picture*
   
 LinkedIn: https://www.linkedin.com/in/shelby-goudy/  
 Instagram for animal pics: https://www.instagram.com/shelbygoudy/
@@ -24,6 +24,11 @@ Instagram for animal pics: https://www.instagram.com/shelbygoudy/
 🏋️‍♀️ Working out   
 🚚 Working on small engines/ vehicles  
 🚜 Yardwork... I can't explain, must be in my DNA 🤷‍♀️  
+🏈 Football- my S/O coaches college ball and I've become quite the aficionado  
+
+### Volunteering ###
+I work at the stables just up the road- everyday. Therapeutic and a nice break from the desk.  
+Plus I get to ride as often as I want :) 
 
 *Thanks for reading!*
 <!---
