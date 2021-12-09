@@ -1,8 +1,9 @@
 # Hi, I'm Shelby 'EVA' Goudy #
-### MS Software Development || Former Marine Officer/ Aviator || MBA  ###
+### MBA & MS Software Development | Former Marine Officer/ Aviator  ###
 
 *Not a huge social media buff but I do take an occassional animal picture*
   
+Personal Site: https://sgoudy.netlify.app  
 LinkedIn: https://www.linkedin.com/in/shelby-goudy/  
 Instagram for animal pics: https://www.instagram.com/shelbygoudy/
 
