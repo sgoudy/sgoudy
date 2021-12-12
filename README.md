@@ -3,7 +3,7 @@
 
 *Not a huge social media buff but I do take an occassional animal picture*
   
-Portfolio: https://sgoudy.netlify.app  
+Portfolio: https://shelbygoudy.netlify.app  
 LinkedIn: https://www.linkedin.com/in/shelby-goudy/  
 Instagram for animal pics: https://www.instagram.com/shelbygoudy/
 
