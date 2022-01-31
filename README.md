@@ -13,20 +13,13 @@ Instagram for animal pics: https://www.instagram.com/shelbygoudy/
 
 *The rest of my school work is private for now*  
 
-### Side hustle as a WP Dev ###
-*Sample Sites, built per client design requests*  
-  
-<a href="orioneci.com" target="_blank">Orion</a>  
-<a href="msofc.org" target="_blank">MSOFC</a>  
-<a href="gobluelight.com" target="_blank">Go BlueLight</a>  
-<a href="claritytc.com" target="_blank">Clarity TC</a>
 
 ### Hobbies ###
 🐴 Working horses - Barrels - Poles - Bareback and bitless riding  
 🐶 Dog training / hiking  
 🏋️‍♀️ Working out   
 🚚 Working on small engines/ vehicles  
-🚜 Yardwork... I can't explain, must be in my DNA 🤷‍♀️  
+🚜 Yardwork
 🏈 Football- my S/O coaches college ball and I've become quite the aficionado  
 
 ### Volunteering ###
