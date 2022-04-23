@@ -2,17 +2,19 @@
 ### MBA & MS Software Development | Former Marine Officer/ Aviator  ###
 
 *Not a huge social media buff but I do take an occassional animal picture*
+
+## [See my 701 INDIVIDUAL Project! * optimized for mobile](https://github.com/sgoudy/cs701)
   
-Portfolio: https://shelbygoudy.netlify.app  
+
 LinkedIn: https://www.linkedin.com/in/shelby-goudy/  
-Instagram for animal pics: https://www.instagram.com/shelbygoudy/
 
 
-## Capstone Project for MSSD ##  
+
+## Capstone TEAM Project for MSSD ##  (NOT optimized for mobile)
 <a href="diary-library.herokuapp.com" target="_blank">diary-library.herokuapp.com</a>
 
-*The rest of my school work is private for now*  
-
+Instagram for animal pics: https://www.instagram.com/shelbygoudy/
+Portfolio: https://shelbygoudy.netlify.app  (not up-to-date).  
 
 ### Hobbies ###
 🐴 Working horses - Barrels - Poles - Bareback and bitless riding  
