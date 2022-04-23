@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/shelby-goudy/
 ## Capstone TEAM Project for MSSD ##  (NOT optimized for mobile)
 <a href="diary-library.herokuapp.com" target="_blank">diary-library.herokuapp.com</a>
 
-Instagram for animal pics: https://www.instagram.com/shelbygoudy/
+Instagram for animal pics: https://www.instagram.com/shelbygoudy/   
 Portfolio: https://shelbygoudy.netlify.app  (not up-to-date).  
 
 ### Hobbies ###
