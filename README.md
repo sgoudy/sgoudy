@@ -2,7 +2,8 @@
 ### MBA & MS Software Development | Former Marine Officer/ Aviator  ###
 
 
-## [See my 701 INDIVIDUAL Project! * optimized for mobile](https://github.com/sgoudy/cs701)
+## [See my 701 INDIVIDUAL Project! * optimized for mobile](https://get-sweaty2.herokuapp.com/)
+try username: admin/ pw: admin, or username: user/ pw: user
   
 
 LinkedIn: https://www.linkedin.com/in/shelby-goudy/  
