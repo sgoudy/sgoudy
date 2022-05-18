@@ -10,8 +10,8 @@ LinkedIn: https://www.linkedin.com/in/shelby-goudy/
 
 
 
-## TEAM Project ##  (NOT mobile first design, I know :( )
-<a href="diary-library.herokuapp.com" target="_blank">diary-library.herokuapp.com</a>
+## [TEAM Project ##  (NOT mobile first design, I know :( )](diary-library.herokuapp.com)
+
 
 Instagram for animal pics: https://www.instagram.com/shelbygoudy/   
 Portfolio: https://shelbygoudy.netlify.app  (not up-to-date).  
