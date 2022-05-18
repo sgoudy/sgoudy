@@ -2,7 +2,7 @@
 ### MBA & MS Software Development | Former Marine Officer/ Aviator  ###
 
 
-## [See my 701 INDIVIDUAL Project! * optimized for mobile](https://get-sweaty2.herokuapp.com/)
+## [See my Strength & Conditioning App! * mobile first design](https://get-sweaty2.herokuapp.com/)
 try username: admin/ pw: admin, or username: user/ pw: user
   
 
@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/shelby-goudy/
 
 
 
-## Capstone TEAM Project for MSSD ##  (NOT optimized for mobile)
+## TEAM Project ##  (NOT mobile first design, I know :( )
 <a href="diary-library.herokuapp.com" target="_blank">diary-library.herokuapp.com</a>
 
 Instagram for animal pics: https://www.instagram.com/shelbygoudy/   
