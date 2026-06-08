@@ -6,9 +6,9 @@ Seeking REMOTE opportunities
 *LinkedIn: https://www.linkedin.com/in/shelby-may/*  
   
 **🛡️Cyberrrr**  
-💻M.S. Software Development|🎓MBA   
-⚡Operational Leadership & Technical Problem Solving 
+💻M.S. Software Development |🎓MBA   
 ✈️Former Marine Corps Pilot 
+
 <br>
 🛡️ Cybersecurity professional in training with well-established Marine Corps leadership and aviation experience, bringing a proven ability to perform in high-pressure environments where accountability, precision, risk management, and decisive leadership are critical. As a former Marine Corps pilot ✈️, I developed strong operational leadership skills while leading teams, managing complex missions, and adapting quickly to dynamic situations.
 
