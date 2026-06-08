@@ -5,7 +5,7 @@ Seeking REMOTE opportunities
 
 *LinkedIn: https://www.linkedin.com/in/shelby-may/*  
   
-**🛡️Cybersecurity Professional in Training**  
+**🛡️Cyberrrr**  
 💻M.S. Software Development|🎓MBA   
 ⚡Operational Leadership & Technical Problem Solving 
 ✈️Former Marine Corps Pilot 
